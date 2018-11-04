@@ -18,3 +18,11 @@ body{
 #js_link:hover{
 cursor: move;
 }
+#content_table{
+	border: solid;
+	border-width: 1px;
+	border-color: grey;
+}
+a{
+	color: #84dbf4;
+}
